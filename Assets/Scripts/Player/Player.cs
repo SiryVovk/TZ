@@ -51,7 +51,7 @@ public class Player : MonoBehaviour
         }
     }
 
-    private void Start()
+    private void Awake()
     {
 
         playerVisual = GetComponentInChildren<MeshRenderer>();
