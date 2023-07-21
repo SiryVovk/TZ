@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<languages>
+	<english>
+		<shild_key>Shild</shild_key>
+		<paus_key>Paus</paus_key>
+		<continue_key>Continue</continue_key>
+		<exit_key>Exit</exit_key>
+	</english>
+	<ukrainian>
+		<shild_key>Щит</shild_key>
+		<paus_key>Пауза</paus_key>
+		<continue_key>Продовжити</continue_key>
+		<exit_key>Вийти</exit_key>
+</ukrainian>
+</languages>
